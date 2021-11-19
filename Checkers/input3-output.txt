@@ -1,0 +1,7 @@
+The whites starts.
+F2 -> H4 -> F6 -> H8
+A3 -> B2
+H8 -> A1
+E7 -> D6
+E1 -> D2
+No win

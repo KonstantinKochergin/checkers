@@ -1,0 +1,9 @@
+W
+White: 1
+MD8
+Black: 5
+A3
+C5
+C7
+G3
+G5

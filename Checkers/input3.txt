@@ -1,0 +1,10 @@
+W
+White: 2
+E1
+F2
+Black: 5
+A3
+G3
+G5
+E7
+G7
